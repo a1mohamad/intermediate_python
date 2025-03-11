@@ -1,0 +1,1 @@
+In this section, We are reviewing Python basics with some exercises.
